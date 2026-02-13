@@ -6,3 +6,4 @@ Pillow
 python-dotenv
 opencv-python-headless
 numpy
+pypdf2
